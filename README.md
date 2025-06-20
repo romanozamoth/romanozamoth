@@ -16,8 +16,10 @@
 
 🚧 Work in progress...
 - [`qa-tests-cypress`](https://github.com/romanozamoth/qa-tests-cypress) – Web testing automation using Cypress
+
 🔒 Not yet published
 - [`automations-python`](https://github.com/romanozamoth/automations-python) – Useful Python scripts and daily automations
+
 🔒 Not yet published
 - [`fastapi-template`](https://github.com/romanozamoth/fastapi-template) – A clean and ready-to-use FastAPI project template
 
