@@ -16,6 +16,7 @@
 
 🚧 Work in progress...
 - [`qa-tests-cypress`](https://github.com/romanozamoth/qa-tests-cypress) – Web testing automation using Cypress
+- [`qrcode-wifi`](https://github.com/romanozamoth/qrcode-wifi) – Useful Python scripts to turn Wifi into QRCode
 
 🔒 Not yet published:
 - [`automations-python`](https://github.com/romanozamoth/automations-python) – Useful Python scripts and daily automations
