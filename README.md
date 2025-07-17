@@ -2,7 +2,9 @@
 # 🤖 This is my automation and testing lab!
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,linux,postgres,aws,azure,docker,fastapi,regex,vscode" />
+  <a href='#'>
+    <img src="https://skillicons.dev/icons?i=py,linux,postgres,aws,azure,docker,fastapi,regex,vscode" />
+  </a>
 </p>
 
 ---
