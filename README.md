@@ -1,6 +1,14 @@
 # 👋 Hello, visitor! I'm Thomaz Romano
 # 🤖 This is my automation and testing lab!
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,linux,postgres,aws,azure,docker,fastapi,regex,vscode" />
+  </a>
+</p>
+
+---
+
 💻 I'm a technology professional focused on automation, data analysis, and DevOps practices.  
 🎯 I'm currently expanding my skills in:
 
@@ -26,6 +34,7 @@
 
 ## 📚 Currently Learning
 
+- Bootcamp Machine Learning - DIO & BairesDev
 - Complete Python course (basic to advanced)
 - Automated QA Testing (Cypress, Robot, Appium)
 - Modern API development with FastAPI + Docker
