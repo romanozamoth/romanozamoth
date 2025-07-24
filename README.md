@@ -26,6 +26,15 @@
 - [`qa-tests-cypress`](https://github.com/romanozamoth/qa-tests-cypress) – Web testing automation using Cypress
 - [`qrcode-wifi`](https://github.com/romanozamoth/qrcode-wifi) – Useful Python scripts to turn Wifi into QRCode
 
+📚 Bootcamp DIO & BairesDev
+- [transfer-learning-ml-dio](https://github.com/romanozamoth/transfer-learning-ml-dio)
+- [image-dim-reduction-dio](https://github.com/romanozamoth/image-dim-reduction-dio)
+- [confusion-matrix-metrics-dio](https://github.com/romanozamoth/confusion-matrix-metrics-dio)
+- [deep-learning-ml-dio](https://github.com/romanozamoth/deep-learning-ml-dio)
+- [facial-recognition-system-dio](https://github.com/romanozamoth/facial-recognition-system-dio)
+- [image-recommender-dio](https://github.com/romanozamoth/image-recommender-dio)
+- [virtual-assistant-dio](https://github.com/romanozamoth/virtual-assistant-dio)
+
 🔒 Not yet published:
 - [`automations-python`](https://github.com/romanozamoth/automations-python) – Useful Python scripts and daily automations
 - [`fastapi-template`](https://github.com/romanozamoth/fastapi-template) – A clean and ready-to-use FastAPI project template
