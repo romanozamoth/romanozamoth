@@ -34,6 +34,7 @@
 - [facial-recognition-system-dio](https://github.com/romanozamoth/facial-recognition-system-dio)
 - [image-recommender-dio](https://github.com/romanozamoth/image-recommender-dio)
 - [virtual-assistant-dio](https://github.com/romanozamoth/virtual-assistant-dio)
+- [stride-threat-modeling-dio](https://github.com/romanozamoth/stride-threat-modeling-dio)
 
 🔒 Not yet published:
 - [`automations-python`](https://github.com/romanozamoth/automations-python) – Useful Python scripts and daily automations
