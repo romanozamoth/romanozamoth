@@ -35,6 +35,7 @@
 - [image-recommender-dio](https://github.com/romanozamoth/image-recommender-dio)
 - [virtual-assistant-dio](https://github.com/romanozamoth/virtual-assistant-dio)
 - [stride-threat-modeling-dio](https://github.com/romanozamoth/stride-threat-modeling-dio)
+- [langchain-test-generator-dio](https://github.com/romanozamoth/langchain-test-generator-dio)
 
 🔒 Not yet published:
 - [`automations-python`](https://github.com/romanozamoth/automations-python) – Useful Python scripts and daily automations
